@@ -75,9 +75,7 @@ hobbies:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushikmuliya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikmuliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="./metrics/github-metrics.svg" alt="Metrics" width="95%"/>
 </div>
 
 <br/>
