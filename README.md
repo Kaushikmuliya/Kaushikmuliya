@@ -73,11 +73,6 @@ hobbies:
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="./metrics/github-metrics.svg" alt="Metrics" width="95%"/>
-</div>
-
 <br/>
 
 <div align="center">
