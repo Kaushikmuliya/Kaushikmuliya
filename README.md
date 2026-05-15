@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaushikmuliya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaushikmuliya&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=60"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Kaushikmuliya+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Kaushikmuliya+%F0%9F%91%8B;Coder+.+Open+Source+Enthusiast+.+Life-long+Learner;I+love+building+cool+stuff+and+solving+problems!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,6 +33,7 @@ hobbies:
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Web Development, Algorithms & Data Structures**
 - ⚡ Fun fact: **I debug code faster with coffee ☕**
+- 📄 [My Resume](https://drive.google.com/file/d/1a9Z5OTfIf47yXyr04cgJaTou3wBmpOkf/view?usp=sharing)
 
 <br clear="right"/>
 
@@ -76,13 +77,13 @@ hobbies:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushikmuliya&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak Stats" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushikmuliya&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushikmuliya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B&area=true&area_color=6AD3F7" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushikmuliya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B&area=true&area_color=6AD3F7" alt="Activity Graph"/>
 </div>
 
 ---
@@ -116,3 +117,4 @@ hobbies:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+
