@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaushikmuliya&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=60"/>
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kaushik-muliya-893b49290" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kaushik-muliya-893b49290?trk=profile-badge">Kaushik Muliya</a>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></div>
               
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kaushik-muliya-893b49290" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kaushik-muliya-893b49290?trk=profile-badge">Kaushik Muliya</a></div>
               
