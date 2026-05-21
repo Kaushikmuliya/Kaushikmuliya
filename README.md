@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaushikmuliya&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=60"/>
 </div>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kaushik-muliya-893b49290" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kaushik-muliya-893b49290?trk=profile-badge">Kaushik Muliya</a></div>
+              
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Kaushikmuliya+%F0%9F%91%8B;Coder+.+Open+Source+Enthusiast+.+Life-long+Learner;I+love+building+cool+stuff+and+solving+problems!" alt="Typing SVG" />
