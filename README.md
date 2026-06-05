@@ -4,7 +4,9 @@
 
 ### Full Stack Developer | Problem Solver | Open Source Enthusiast
 
-*Building scalable web applications with modern technologies*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Full-Stack+Development;Cloud+%26+DevOps+Explorer;Open+Source+Contributor" alt="Typing Animation" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-muliya-893b49290/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaushikmuliya)
@@ -13,6 +15,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=chrome&logoColor=white)](https://kaushikmuliya.github.io/Portfolio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kaushikmuliya&label=Profile%20Views&color=0079ff&style=flat-square)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 
 ---
 
@@ -95,13 +99,32 @@ I'm a passionate **full-stack developer** from India with expertise in building 
 
 ---
 
-## 📈 Stats & Activity
+## 📈 GitHub Stats & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushikmuliya&show_icons=true&theme=tokyonight&hide_border=true)
+### 📊 Performance Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikmuliya&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushikmuliya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=30B0C0&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikmuliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=30B0C0)
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kaushikmuliya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=30B0C0&sideNums=30B0C0&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=30B0C0" alt="GitHub Streak" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+```
+🎖️ Open Source Contributor  
+🌟 Full Stack Developer  
+💡 Problem Solver  
+🚀 Tech Enthusiast  
+```
 
 </div>
 
@@ -109,23 +132,69 @@ I'm a passionate **full-stack developer** from India with expertise in building 
 
 ## 💡 What I'm Passionate About
 
-- 🧠 Problem-solving and algorithmic thinking
-- 🌐 Building user-friendly web applications
-- 📚 Continuous learning and self-improvement
-- 🤖 Exploring emerging technologies
-- 👥 Mentoring and knowledge sharing
+```
+┌─────────────────────────────────────┐
+│ 🧠 Problem-solving & Algorithms     │
+│ 🌐 User-friendly Web Applications   │
+│ 📚 Continuous Learning               │
+│ 🤖 Emerging Technologies            │
+│ 👥 Mentoring & Knowledge Sharing    │
+└─────────────────────────────────────┘
+```
 
 ---
 
+## 🎓 Learning & Growth
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-fbf0505b-0a0a-479c-9d4f-2a1a95352e19.gif" width="100">
+
+Currently expanding expertise in:
+- 🔄 Advanced System Design patterns
+- ☁️ AWS & Cloud Infrastructure
+- 🐳 Docker & Kubernetes orchestration
+- 📊 DevOps & CI/CD pipelines
+
+---
+
+## 🤝 Let's Collaborate!
+
 <div align="center">
 
-### Let's Connect! 🤝
+<img src="https://user-images.githubusercontent.com/74038190/213844375-6e8b7b7a-4017-44c7-a331-cda08ba1c38e.gif" width="80">
 
-Feel free to reach out for collaborations, questions, or just a friendly chat!
+I'm always excited to work on:
+- **Innovative Projects** with cutting-edge technologies
+- **Open Source** contributions that make an impact
+- **Mentoring** aspiring developers in their journey
+
+<br/>
+
+### 📬 Get In Touch
 
 **[📧 Email Me](mailto:kaushikmuliya82@gmail.com)** • **[💼 LinkedIn](https://www.linkedin.com/in/kaushik-muliya-893b49290/)** • **[🌐 Portfolio](https://kaushikmuliya.github.io/Portfolio/)**
 
 ---
+
+### 🎯 Fun Facts
+
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4b86-ba3f-66a6e285d357.gif" width="80">
+
+- 🎮 When not coding, I solve algorithmic puzzles
+- 📖 Avid reader of tech blogs and research papers
+- 🌍 Open to remote opportunities globally
+- ☕ Fueled by coffee and curiosity
+
+---
+
+<div>
+  <img src="https://user-images.githubusercontent.com/74038192/212257472-08e52ab7-d66f-4c38-af1e-04b8aa2db064.gif" width="50" alt="wave">
+  <strong>Thanks for visiting! Feel free to connect and explore my work.</strong>
+  <img src="https://user-images.githubusercontent.com/74038192/212257472-08e52ab7-d66f-4c38-af1e-04b8aa2db064.gif" width="50" alt="wave">
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 
 *Last updated: June 2026* | *Made with ❤️ by Kaushik Muliya*
 
