@@ -99,9 +99,15 @@ I'm a passionate **full-stack developer** from India with expertise in building 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushikmuliya&show_icons=true&theme=tokyonight&hide_border=true)
+### GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikmuliya&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Kaushikmuliya">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kaushikmuliya&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" width="100%" />
+</a>
+
+<a href="https://github.com/Kaushikmuliya">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikmuliya&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" width="100%" />
+</a>
 
 </div>
 
