@@ -95,18 +95,6 @@ I'm a passionate **full-stack developer** from India with expertise in building 
 
 ---
 
-## 📈 Stats & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushikmuliya&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikmuliya&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💡 What I'm Passionate About
 
 - 🧠 Problem-solving and algorithmic thinking
