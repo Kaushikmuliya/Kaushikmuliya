@@ -95,22 +95,13 @@ I'm a passionate **full-stack developer** from India with expertise in building 
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Stats & Activity
 
 <div align="center">
 
-**Visit my GitHub profile to see my repositories and contributions:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushikmuliya&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![GitHub Profile](https://img.shields.io/badge/View_My_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaushikmuliya)
-
-### 📊 Quick Stats
-
-| Metric | Value |
-|--------|-------|
-| 🔗 **GitHub Profile** | [@Kaushikmuliya](https://github.com/Kaushikmuliya) |
-| 📚 **Focus Areas** | Full-Stack Development, Open Source |
-| 💡 **Interested In** | Web Apps, Cloud Tech, System Design |
-| 🌍 **Looking For** | Collaboration & Innovation |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikmuliya&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
