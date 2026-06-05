@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaushikmuliya&fontSize=80&fontColor=fff&animation=twinkling" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaushikmuliya&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=60"/>
 </div>
-
+            
 <div align="center">
-  <h1>👋 Hey there! I'm Kaushikmuliya</h1>
-  <p><strong>Full Stack Developer | Problem Solver | Open Source Enthusiast</strong></p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Kaushikmuliya+%F0%9F%91%8B;Coder+.+Open+Source+Enthusiast+.+Life-long+Learner;I+love+building+cool+stuff+and+solving+problems!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -13,12 +14,12 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://img.shields.io/badge/Developer-Full%20Stack-blue?style=flat-square&logo=code&logoColor=white"/>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```yaml
 name: Kaushikmuliya
 location: India 🇮🇳
-current_focus: Building awesome full-stack projects
+current_focus: Building awesome projects
 passion: Clean code & Creative solutions
 hobbies:
   - Coding 💻
@@ -27,13 +28,13 @@ hobbies:
   - Continuous Learning 📚
 ```
 
-- 🔭 Currently working on **exciting full-stack projects**
-- 🌱 Learning **Cloud & DevOps technologies**
-- 👯 Looking to collaborate on **open source projects**
+- 🔭 I'm currently working on **exciting full-stack projects**
+- 🌱 I'm currently learning **Cloud & DevOps technologies**
+- 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Web Development, Algorithms & Data Structures**
 - ⚡ Fun fact: **I debug code faster with coffee ☕**
 - 📄 [My Resume](https://drive.google.com/file/d/1a9Z5OTfIf47yXyr04cgJaTou3wBmpOkf/view?usp=sharing)
-- 🌐 [My Portfolio](https://kaushikmuliya.github.io/Portfolio/)
+- 👨‍💻[MyPortfolioWebsite](https://kaushikmuliya.github.io/synent-task1-PersonalPortfolioWebsite-kaushik/)
 
 <br clear="right"/>
 
@@ -68,22 +69,22 @@ hobbies:
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 My Journey
+## 📊 GitHub Stats
+<br/>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushikmuliya&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="Streak Stats"/>
+</div>
 
-| Skill Level | Technologies |
-|-------------|--------------|
-| 🟢 Proficient | JavaScript, React, Node.js, MongoDB |
-| 🟡 Intermediate | Python, Java, Express.js, PostgreSQL |
-| 🔵 Learning | DevOps, Docker, Cloud Services |
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushikmuliya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B&area=true&area_color=6AD3F7" alt="Activity Graph"/>
 </div>
 
 ---
@@ -102,17 +103,16 @@ hobbies:
 
 ---
 
-## 💡 What I'm Working On
+## 🏆 GitHub Trophies
 
-- 🚀 Full-stack web applications with React & Node.js
-- 📚 Contributing to open-source projects
-- 🧠 Strengthening DSA and system design skills
-- ☁️ Exploring cloud platforms and DevOps
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaushikmuliya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" width="95%"/>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaushikmuliya&label=Profile%20Views&color=6AD3F7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kaushikmuliya&label=Profile%20Views&color=6AD3F7&style=for-the-badge" alt="Profile Views Counter"/>
 </div>
 
 <div align="center">
