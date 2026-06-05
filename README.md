@@ -13,14 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="Dev Icons"/>
-  <br/>
-  <img src="https://avatars.githubusercontent.com/u/your-id?size=200" alt="Kaushikmuliya" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"/>
-  <br/>
-  <p><em>Cartoon Avatar:</em></p>
-  <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Kaushikmuliya" alt="Cartoon Profile" width="200" style="border-radius: 20px;"/>
-</div>
+<img align="right" alt="Coding" width="300" src="https://img.shields.io/badge/Developer-Full%20Stack-blue?style=flat-square&logo=code&logoColor=white"/>
 
 ```yaml
 name: Kaushikmuliya
