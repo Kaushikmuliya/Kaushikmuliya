@@ -95,19 +95,21 @@ I'm a passionate **full-stack developer** from India with expertise in building 
 
 ---
 
-## 📈 Stats & Activity
+## 📈 GitHub Stats & Activity
 
 <div align="center">
 
-### GitHub Statistics
+### Performance Metrics
 
-<a href="https://github.com/Kaushikmuliya">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kaushikmuliya&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" width="100%" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaushikmuliya&show_icons=true&count_private=true&theme=nord&bg_color=transparent&text_color=81A1C1&title_color=88C0D0&icon_color=81A1C1)
 
-<a href="https://github.com/Kaushikmuliya">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikmuliya&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D" width="100%" />
-</a>
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikmuliya&layout=compact&theme=nord&bg_color=transparent&text_color=81A1C1&title_color=88C0D0)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaushikmuliya&theme=nord&background=transparent)
 
 </div>
 
