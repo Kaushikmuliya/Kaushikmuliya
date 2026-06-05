@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```yaml
-name: Kaushikmuliya
+name: Kaushik
 location: India 🇮🇳
 current_focus: Building awesome projects
 passion: Clean code & Creative solutions
@@ -32,7 +32,6 @@ hobbies:
 - 🌱 I'm currently learning **Cloud & DevOps technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Web Development, Algorithms & Data Structures**
-- ⚡ Fun fact: **I debug code faster with coffee ☕**
 - 📄 [My Resume](https://drive.google.com/file/d/1a9Z5OTfIf47yXyr04cgJaTou3wBmpOkf/view?usp=sharing)
 - 👨‍💻[MyPortfolioWebsite](https://kaushikmuliya.github.io/synent-task1-PersonalPortfolioWebsite-kaushik/)
 
