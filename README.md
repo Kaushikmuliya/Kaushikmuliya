@@ -18,7 +18,7 @@
 
 ```yaml
 name: Kaushik
-location: India 🇮🇳
+location: Mangalore, Karnataka
 current_focus: Building awesome projects
 passion: Clean code & Creative solutions
 hobbies:
