@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="400"
-src="https://storyset.com/work">
+src="https://undraw.co/api/illustrations/programming.svg">
 
 ```yaml
 name: Kaushik
