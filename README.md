@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaushik_Muliya&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaushik_Muliya&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=35"/>
 </div>
             
 <div align="center">
@@ -32,7 +32,7 @@ hobbies:
 - 🌱 I'm currently learning **Cloud & DevOps technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Web Development, Algorithms & Data Structures**
-- 👨‍💻 Know me more :[here](https://kaushikmuliya.github.io/Personal_Portfolio_Website_Kaushik/)
+- 👨‍💻 Know me more [here](https://kaushikmuliya.github.io/Personal_Portfolio_Website_Kaushik/)
 
 <br clear="right"/>
 
