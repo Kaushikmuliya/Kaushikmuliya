@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-![Pacman](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```yaml
 name: Kaushik
