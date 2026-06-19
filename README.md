@@ -14,8 +14,8 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coder" width="350"
-src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="Developer" width="350"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ```yaml
 name: Kaushik
