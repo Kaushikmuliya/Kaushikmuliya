@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="350" src="https://cdn.dribbble.com/userupload/21898576/file/original-99c2a329ebc39443dcdcc66927ffe911.gif">
 
 ```yaml
 name: Kaushik
