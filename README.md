@@ -32,7 +32,7 @@ hobbies:
 - 🌱 I'm currently learning **Cloud & DevOps technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Web Development, Algorithms & Data Structures**
-- 👨‍💻[MyPortfolioWebsite](https://kaushikmuliya.github.io/Personal_Portfolio_Website_Kaushik/)
+- 👨‍💻 Know me more :[here](https://kaushikmuliya.github.io/Personal_Portfolio_Website_Kaushik/)
 
 <br clear="right"/>
 
