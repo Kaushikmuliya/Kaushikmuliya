@@ -14,8 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Building+Projects;Exploring+AI+%26+ML;Open+Source+Learner" />
 
 ```yaml
 name: Kaushik
