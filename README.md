@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="350" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Building+Projects;Exploring+AI+%26+ML;Open+Source+Learner" />
+![Pacman](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ```yaml
 name: Kaushik
